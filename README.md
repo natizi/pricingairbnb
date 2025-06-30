@@ -35,10 +35,10 @@ The focus is on creating a predictive model using machine learning techniques, p
 
 ## 📁 Repository Structure
 pricingairbnb/
-├── Airbnb_London_Pricing_2024.ipynb # Main notebook
-├── data/ #  Raw dataset
-├── images/ # Visualizations or output charts
-└── README.md # Project summary (this file)
+- Airbnb_London_Pricing_2024.ipynb # Main notebook
+- data/ #  Raw dataset
+- images/ # Visualizations or output charts
+- README.md # Project summary (this file)
 
 ## 🔭 What Could Be Done Next
 - Integrate seasonality data (e.g., booking trends by month).
